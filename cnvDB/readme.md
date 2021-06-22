@@ -83,7 +83,7 @@ We provide and extensive annotation of CNVs with clinical relevant databases. A 
 
 * **Clingen**. [ClinGen](https://www.clinicalgenome.org/) is a National Institutes of Health (NIH)-funded resource dedicated to building a central resource that defines the clinical relevance of genes and variants for use in precision medicine and research. It provides a curated gene dosage sensitivity database.
 
-* **The Human Phenotype Ontology**. The Human Phenotype Ontology [HPO](https://hpo.jax.org/app/) provides a standardized vocabulary of phenotypic abnormalities encountered in human disease. We provide HPO annotations derived directly from gene-phenotipe links and from the patient network analysis carried out by [A. Reyes-Palomares et at](https://doi.org/10.1186/s12864-016-2569-6).
+* **The Human Phenotype Ontology**. The Human Phenotype Ontology [HPO](https://hpo.jax.org/app/) provides a standardized vocabulary of phenotypic abnormalities encountered in human disease. We provide HPO annotations derived directly from gene-phenotipe links and from the patient network analysis carried out by [E. Rojano et at](https://link.springer.com/chapter/10.1007/978-3-319-56148-6_17).
 
 * **UCSC**. The wgEncodeEH000322 track from [UCSC](hgdownload.soe.ucsc.edu) provides information about the mappability of the genome. This annotation can be useful to detect false positives and biases in CNV prediction technologies/tools.
 
