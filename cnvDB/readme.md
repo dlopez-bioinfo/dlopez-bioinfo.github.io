@@ -1,12 +1,12 @@
-# [XXX_FULL_NAME_XXX](xxx)
+# SPAnish Copy Number Alteration Collaborative Server
 ![alt logo][logo]
 
 
-[XXX_SHORT_NAME_XXX](xxx) is a crowdsourcing initiative to provide information about **C**opy **N**umber **V**ariations of the Spanish population to the scientific/medical community. We accept submissions from WES or WGS, no matter whether these come from healthy or diseased individuals.
+SPACNACS is a crowdsourcing initiative to provide information about **C**opy **N**umber **V**ariations of the Spanish population to the scientific/medical community. We accept submissions from WES or WGS, no matter whether these come from healthy or diseased individuals.
 
-The sequences were contributed by different consortiums and projects, including groups from the Spanish Network for Research in Rare Diseases, [CIBERER](https://www.ciberer.es/), results from the [EnoD](https: //www.ciberer.es/en/transversal-programmes/scientific- projects/undiagnosed-rare-diseases-programme-enod), the [Project Genome 1000 Navarra](https://www.nagen1000navarra.es/en) and other research groups and initiatives across Spain. 
+The sequences were contributed by different consortiums and projects, including groups from the Spanish Network for Research in Rare Diseases, [CIBERER](https://www.ciberer.es/), results from the [EnoD](https: //www.ciberer.es/en/transversal-programmes/scientific-projects/undiagnosed-rare-diseases-programme-enod), the [Project Genome 1000 Navarra](https://www.nagen1000navarra.es/en) and other research groups and initiatives across Spain.
 
-[XXX_SHORT_NAME_XXX](xxx) is an open resource available at [http://csvs.clinbioinfosspa.es/cnv](http://csvs.clinbioinfosspa.es/cnv)
+SPACNACS is an open resource available at [http://csvs.clinbioinfosspa.es/cnv](http://csvs.clinbioinfosspa.es/cnv)
 
 
 ## <a name="TOC">Table of content</a>
@@ -62,7 +62,7 @@ This section controls the CNVs displayed in the _CNVs_ track. By default, the wh
 
 ![alt annotation][annotation]
 
-* **Frequency**. CNVs frecuency for each CNV is calculated as the ratio of individuals having at least one CNV overlapping it. For non coding regions, only WGS are taken into account. Please, bear in mind that frecuencies may vary a lot depending on the method used to calculate it. 
+* **Frequency**. CNVs frecuency for each CNV is calculated as the ratio of individuals having at least one CNV overlapping it. For non coding regions, only WGS are taken into account. Please, bear in mind that the frecuency may vary depending on the method used to calculate it.
 
 * **Samples**. Despite gene pleiotropy cannot be completely ruled out, samples were binned at higher disease ICD10 categories. The main objetive is using the repository as a pseudo-control population for finding new disease-causing CNVs, with the idea that ‘disease A is a healthy control for disease B’. Additionally, samples can also be filtered out according to their main [HPO](https://hpo.jax.org/app/) or the gender. 
 
